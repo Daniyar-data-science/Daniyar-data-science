@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi, I'm Daniyar 👋
+
+🎓 CS student & aspiring Data Scientist  
+📊 Interested in data analysis and machine learning  
+🌱 Learning every day and building projects
+
+## 🛠 Tech Stack
+- Python
+- Pandas, NumPy
+- SQL
+- Matplotlib (basic)
+- Git & GitHub
+
+## 🚀 What I'm working on now
+- Practicing Python for data analysis
+- Solving SQL tasks
+- Exploring datasets and doing EDA
+- 
+## 📁 Projects
+- 📊 Data analysis of small datasets (Pandas)
+- 📈 Exploratory Data Analysis (EDA)
+- 🗄 SQL practice queries
+
+## 🎯 Goals
+- Become Junior Data Scientist
+- Get an internship in Data / ML
+- Build strong portfolio projects
+  
+## 🌍 Location
+Kyrgyzstan 🇰🇬
+
 
 <!--
 **Daniyar-data-science/Daniyar-data-science** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
